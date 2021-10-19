@@ -9,7 +9,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=SpotifyDatabase)](https://t.me/spotifydatabase)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=MyChannel)](https://t.me/WEArEReDx)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=MyChannel)](https://t.me/WEArERedx)
 
 
 
