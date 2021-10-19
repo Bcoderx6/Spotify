@@ -29,3 +29,7 @@ Get it from FFmpeg's official site (www.ffmpeg.org)
 <pre>token = 'token bot'</pre>
 
 <b>now run the Script ;)</b>
+
+## Thanks to
+- [Nimio](https://github.com/nimiology)
+- [Infotech](https://github.com/infotechIT)
