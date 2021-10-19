@@ -4,7 +4,7 @@
 ## Deploy to Heroku Fast 👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nimiology/spotify_downloader_telegram__bot/tree/Heroku)
 
-## My bot 👇
+## My Bots 👇
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=SpotifyDLBot)](https://t.me/spotifyv4bot)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=SpotifyDatabase)](https://t.me/spotifydatabase)
