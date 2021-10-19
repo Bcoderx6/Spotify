@@ -31,5 +31,5 @@ Get it from FFmpeg's official site (www.ffmpeg.org)
 <b>now run the Script ;)</b>
 
 ## Thanks to
-- [Nimai](https://github.com/nimiology)
+- [Nima](https://github.com/nimiology)
 - [Infotech](https://github.com/infotechIT)
